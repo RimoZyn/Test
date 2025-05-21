@@ -1,2 +1,2 @@
 # Test-
- https://rimozyn.github.io/Test-/
+https://rimozyn.github.io/Test/
